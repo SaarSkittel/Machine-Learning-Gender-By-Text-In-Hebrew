@@ -3,7 +3,7 @@
 
 This project was a final project in ML course. The project classify the gender of the composer of a given text in Hebrew.
 
-The project is written in Python in Jupiter Notebook using Pandas and scikit-learn.
+The project is written in Python using Jupiter Notebook utilizing  Pandas and scikit-learn libraries.
 ## Work Flow 
 ### Creating an Dataframe from corpus
 Tokenizing the texts using Hebrew tokenizer modified with filtering tokens of words that are not in Hebrew.
