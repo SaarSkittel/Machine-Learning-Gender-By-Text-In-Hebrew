@@ -23,6 +23,7 @@ Used 80% of the data to train the model and 20% for validation.
 
 ### Final results
 Used 100% of the data to train the model with a new test results.
+
               precision    recall  f1-score   support
 
            f       0.55      0.64      0.59        33
