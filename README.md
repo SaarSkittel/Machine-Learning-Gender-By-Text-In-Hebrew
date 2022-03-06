@@ -17,10 +17,9 @@ Used 80% of the data to train the model and 20% for validation.
 
            f       0.55      0.60      0.57        20
            m       0.84      0.81      0.83        53
-
     accuracy                           0.75        73
-    macro avg       0.69      0.71      0.70        73
-    weighted avg       0.76      0.75      0.76        73
+    macro avg      0.69      0.71      0.70        73
+    weighted avg   0.76      0.75      0.76        73
 
 ### Final results
 Used 100% of the data to train the model with a new test results.
@@ -30,8 +29,8 @@ Used 100% of the data to train the model with a new test results.
            m       0.88      0.84      0.86       104
 
     accuracy                           0.79       137
-    macro avg       0.72      0.74      0.72       137
-    weighted avg       0.80      0.79      0.79       137
+    macro avg      0.72      0.74      0.72       137
+    weighted avg   0.80      0.79      0.79       137
 
 
 
