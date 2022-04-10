@@ -10,8 +10,8 @@ Tokenizing the texts using Hebrew tokenizer modified with filtering tokens of wo
 Creating stop words file that has most common words in Hebrew who doesn’t indicate the gender of the writer  
 ### Creating a pipeline:
 Vector – from trial and error it seem that count vectorizer works the best in this case with the stop words and tokenizer.
-### Normailzer- from trial and error it seem that l2 normailzer works the best in this case.
-### Classifier - using MLPClassifie r(neural networks) with max iterations of 200 , learning rate of 0.01 without shuffle and random state set to 0.
+Normailzer- from trial and error it seem that l2 normailzer works the best in this case.
+Classifier - using MLPClassifie r(neural networks) with max iterations of 200 , learning rate of 0.01 without shuffle and random state set to 0.
 ### Train results
 Used 80% of the data to train the model and 20% for validation.
 
