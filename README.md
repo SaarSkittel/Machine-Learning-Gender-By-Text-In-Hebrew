@@ -1,4 +1,4 @@
-# Machine-Learning-Gender-Classification-By-Text-In-Hebrew
+# Machine Learning Gender Classification From Text In Hebrew
 ## Introduction
 
 This project was a final project in ML course. The project classify the gender of the composer of a given text in Hebrew.
